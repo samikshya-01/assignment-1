@@ -1,3 +1,7 @@
+**Name:** Samikshya Giri
+**Instructor's Name:** Netra Prasad Neupane
+**GitHub repository:** https://github.com/samikshya-01/assignment-1
+
 # Part A: Git & Project Foundations
 
 ## Git fundamentals
